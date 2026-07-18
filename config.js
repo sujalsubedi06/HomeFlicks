@@ -3,5 +3,5 @@ const APP_CONFIG = {
 
     githubUrl: "https://github.com/sujalsubedi06/moviehub",
 
-    playerUrl: "https://morencius.com/embed/u7o42uva7oqs",
+    playerUrl: "https://morencius.com/embed/sbce2cz87vsy",
 };
